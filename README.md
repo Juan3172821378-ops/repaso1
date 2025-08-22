@@ -1,1 +1,1 @@
-# este proyecto es una muestra de mi repositorio
+este proyecto es una muestra de mi repositorio
